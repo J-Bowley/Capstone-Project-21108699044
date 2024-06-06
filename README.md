@@ -1,8 +1,7 @@
 # Capstone-Project-21108699044
-Code and Files used for NLP Analysis in Capstone Project 2024
+Code and Files used for NLP Analysis in Capstone Research Project 2024:
 
 "How do the components in public transport environments impact user wellbeing? A case study of London Bridge Station"
-This repository contains all code and files used in this capstone research project.
 
 VAD Norms Dataset by: Warriner, et al. (2013)
 
