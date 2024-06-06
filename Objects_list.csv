@@ -1,0 +1,49 @@
+﻿Objects:,Objects_adapted:,Number in Plant Shop:,Number in Pipe Organ:
+Ticket machines,Tickets,0,0
+,Machines,0,0
+Thresholds,Thresholds,3,2
+Advertisement (paper),Advertisement,8,4
+Advertisement (digital - static),,,
+Advertisement (digital - dynamic),,,
+Artwork,Artwork,7,1
+Music (instrument),Music,0,1
+,Instruments,0,1
+Food/drink stalls (e.g. stands),Stalls,0,0
+,Food,0,0
+,Drinks,0,0
+Food/drink places (e.g. café),Cafés,0,0
+Stores/shops,Shops,1,0
+,Stores,1,0
+Maps,Maps,0,0
+"Signs (exit signs, direction signs,…)",Signs,1,0
+Toilets,Toilets,0,0
+Amazon Lockers,Lockers,0,0
+Phone charging stations,Chargers,0,0
+Clocks,Clocks,0,0
+(Train) timetable (physical/paper),Timetables,0,0
+(Train) timetable (digital),,,
+Plant life,Plants,1,0
+Fire escape,Fire Escapes,3,1
+Ticket barrier,Barriers,0,0
+Active supervision (cameras),Supervision,6,3
+,Cameras,6,3
+Active supervision (overhead visibility),Visibility,0,0
+Blind spots,Blind spots,1,0
+Lifts/step free access,Lifts,0,0
+,Accessibility,0,0
+Message boards,Messages,0,0
+Bike storage,Storage,0,0
+Information desk,Information,0,0
+Benches/seating,Seating,5,4
+Bins,Bins,1,0
+Newspaper collections,Newspapers,0,0
+Cash machine,Cash machines,0,0
+Station notices (not ads),Notices,0,3
+Entrance/exit,Entrances,1,1
+,Exits,1,1
+Photo booths,Photo booths,0,0
+Live station updates ,Updates,0,0
+Staff ‘pods’,Staff,0,0
+Lamps,Lamps,8,0
+Stickers on floor,Stickers,2,0
+Vent,Vents,1,0
