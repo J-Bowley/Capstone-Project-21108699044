@@ -5,6 +5,7 @@ Code and Files used for NLP Analysis in Capstone Project 2024
 This repository contains all code and files used in this capstone research project.
 
 VAD Norms Dataset by: Warriner, et al. (2013)
+
 Sensorimotor Norms Dataset by: Lynott, et al. (2019)
 
 Dataframes have been saved and added to this repository so that the code can be run from 'Analysis' onwards (+ run 'Imports'), or from the beginning using other datasets also in this repository.
